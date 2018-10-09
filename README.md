@@ -4,7 +4,7 @@ Criação da WebApp para Musica Promo
 
 ### Como Será feito?
 ```
-O programa para construção da WebApp seá a Android Studio 
+O programa para construção da WebApp será a Android Studio 
 ```
 
 ## Contributing
